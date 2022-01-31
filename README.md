@@ -12,7 +12,7 @@
 
 ---
 
-Make a copy of your file `html-intro.html`. Name it to be HW-1-2. The easiest way to do this is to file -- save as, and rename. Make sure it is in the correct location!
+Make a copy of your file `html-intro.html`. Name it to be `HW-1-2.html` The easiest way to do this is to file -- save as, and rename. Make sure it is in the correct location!
 
 Your file should already include the following:
 

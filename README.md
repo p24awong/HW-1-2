@@ -1,7 +1,7 @@
 <h1 align="center">
     Fairfield College Preparatory School<br>
     Web Development - Mrs. Kinskey-Lebeda<br>
-    HW 1-1
+    HW 1-2
 </h1>
 
 <h2 align="center">
@@ -12,7 +12,9 @@
 
 ---
 
-Create an HTML file named `html-intro.html`. Add to it the following sections below:
+Make a copy of your file `html-intro.html`. Name it to be HW-1-2. The easiest way to do this is to file -- save as, and rename. Make sure it is in the correct location!
+
+Your file should already include the following:
 
 * DOCTYPE declaration
 * html element
@@ -22,7 +24,10 @@ Create an HTML file named `html-intro.html`. Add to it the following sections be
 
 Each section should have text written in it. Choose a theme for your website, and make sure all areas fit within it!
 
-Theme Suggestions: about me, sports team profile, hobby overview, game review
+Add to your code the following items:
+* at least 3 different heading options
+* an ordered list of at least 5 different items
+* an unordered list of at least 10 different items
 
 Be sure to use proper indentation!
 
